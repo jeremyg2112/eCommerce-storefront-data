@@ -1,0 +1,56 @@
+{
+	"product1": {
+		"productId": "audioquestFire",
+		"productName": "Audioquest - Elements Series - Fire Analog Audio Interconnect RCA 1.5m Pair",
+		"price": 4234.95,
+		"productImgSrc": "https://images-na.ssl-images-amazon.com/images/I/71uoJ2hsDmL._SL1200_.jpg",
+		"category": "Cables",
+		"desc": "Technically speaking fire is not an object but an event: the rapid oxidation of a material in the chemical process of combustion by which heat and light are released into the surrounding environment. What we typically think of as “fire”—the often mysteriously beautiful and strangely hypnotic fireplace flicker of white yellow or red-orange glow—is actually just the visible part of the fire’s flame containing the superheated byproducts of the fire’s incomplete exothermic reaction giving off visible light as excess energy is released. Interestingly the cherry-red flame of a smoldering campfire measures somewhere around 700? Celsius; the deep orange flame of a candle lit at a bedside or suffusing a living room with gentle aroma typically burns at around 1000? Celsius; and the dazzling white flame created by a meteor as it enters Earth’s atmosphere can often exceed 1500? Celsius! While fire is commonly considered to be a destructive event it can also be a very effective tool for managing and enhancing fields forests and wetlands: Native Americans discovered that while fire killed woody plants it encouraged the growth of fruit-bearing shrubs and forage-producing grasslands. Of course fire’s unique potential has been known for some time: It’s likely that humans began using fire to heat food approximately 1 million years ago. Among the classical elements fire is commonly associated with energy assertiveness and passion. In Greek Mythology the cult hero Prometheus defied the gods by providing humanity the gift of fire thereby enabling progress and civilization. People born under the astrological signs of Aries Leo and Sagittarius are thought to have fire personalities: They are enthusiastic extroverted and like our good friend Prometheus they are rebellious passionate brave and valiant. It’s no wonder that we have for so long been drawn to fire. A thing to be feared respected and loved fire is that which drives us.",
+		"tags": ["cable", "audio", "RCA", "element series", "analog", "audioquest"]
+	}, 
+	"product2": {
+		"productId": "audioquestYosemite",
+		"productName": "Audioquest Yosemite 12m Audio Interconnect RCA to RCA",
+		"price": 3904.05,
+		"productImgSrc": "https://images-na.ssl-images-amazon.com/images/I/61%2BR1i9fIJL._SL1024_.jpg",
+		"category": "Cables",
+		"desc": "Perfect-Surface Copper+ has an astonishingly smooth and pure surface. Proprietary metal-processing technology protects the wire’s surface at every stage of drawing and fabrication. When high-purity low-oxide copper is kept as soft, pure and smooth as possible, it becomes a wonderfully low-distortion PSC+ conductor. PSC+ is manufactured by applying the same exceptional technology to an ultra-pure copper. The resulting sound quality is even more focused and simply less in the way. For over 30 years AudioQuest has pioneered the use of superior metals; yet even we were surprised by the huge leap in performance made possible with Perfect-Surface Technology. PSC+ simply outperforms all previously available copper metals at any price. All of Yosemite’s conductors are solid. Electrical and magnetic interaction between strands in a conventional cable is the greatest source of distortion, often causing a somewhat dirty, harsh sound. Solid conductors are fundamental toward achieving Yosemite’s very clean sound.",
+		"tags": ["cable", "audio", "RCA", "yosemite", "analog", "carbon", "audioquest"]
+	}, 
+	"product3": {
+		"productId": "audioquestHurricane",
+		"productName": "Audioquest Hurricane High Current 20 Amp Power Cable 3.0m",
+		"price": 2849.95,
+		"productImgSrc": "https://images-na.ssl-images-amazon.com/images/I/51gfFEjcMRL.jpg",
+		"category": "Cables",
+		"desc": "HIGH PURITY CONDUCTORS - SOLID PERFECT-SURFACE COPPER+ (PSC+): Solid Perfect-Surface Copper+ (PSC+) conductors prevent strand interaction, a major source of ear fatiguing transient intermodulation distortion. The astonishingly smooth and pure Perfect-Surface Copper+ eliminates harshness and greatly increases clarity compared to OFHC, OCC, 8N and other premium coppers. The superior purity of PSC+ further minimizes distortion caused by grain boundaries, which exist within any metal conductor. UNCOMPRESSED HIGH-CURRENT TRANSFER - HURRICANE: With current capacity of 20 amps RMS @ 125VAC 50/60Hz (16 amps RMS @ 220-240VA 50/60Hz), Hurricane/High-Current can withstand current transient peaks many times its continuous (average) RMS rating. This makes Hurricane/High-Current ideally suited for a wide assortment of AC power conditioners, power regenerators, AC isolation transformers, and AC battery back-up devices, as well as any power amplifier, powered subwoofer, powered loudspeaker, powered receiver, or integrated amplifier. GROUND NOISE-DISSIPATION TECHNOLOGY: AC Ground wires provide protection from current-wiring faults, but they also act as antennas. Thus, they are subject to induced radio-frequency (RF) noise. This RF noise bypasses component power supplies and is typically coupled directly into a system’s most sensitive audio/video circuits. AudioQuest’s patented Ground-Noise Dissipation greatly reduces this distortion, yielding unprecedented levels of noise dissipation across the widest bandwidth (range) of radio frequencies possible. DIRECTIONALITY: All drawn metal strands or conductors have a non-symmetrical, and therefore directional, grain structure. AudioQuest controls the resulting RF impedance variation so that noise is drained away from where it will cause distortion.",
+		"tags": ["high_current", "audio", "hurricane", "power", "copper", "conductor", "audioquest"]
+	},
+	"product4": {
+		"productId": "wireworldPlatinum",
+		"productName": "WIREWORLD Platinum Starlight 7 HDMI Audio/Video 4K/18Gbps/HDR Cable - 9 Meters",
+		"price": 5006.74,
+		"productImgSrc": "https://images-na.ssl-images-amazon.com/images/I/11RSsBR5PFL.jpg",
+		"category": "Cables",
+		"desc": "The Platinum Starlight 7 is the ultimate HDMI cable; incorporating carbon fiber plugs and solid silver conductors in the patented DNA Helix design for the richest sound and most vivid imaging available. HD-Grip plug contacts ensure a secure connection. Passive 18Gbps to 7.0m",
+		"tags": ["hdmi", "platinum", "starlight", "hdr", "4k", "silver", "gold_plating", "wireworld"]
+	},
+	"product5": {
+		"productId": "trippLitePlenum",
+		"productName": "Tripp Lite 50 Foot Plenum Hdmi Gold Digital Male-To-Male Video Cable Black",
+		"price": 23622.85,
+		"productImgSrc": "https://images-na.ssl-images-amazon.com/images/I/61aMyJTk8mL._SL1200_.jpg",
+		"category": "Cables",
+		"desc": "Tripp Lite's 50ft PLENUM Rated HDMI - HDMI ( High Definition Multimedia Interface ) cable allows interconnection between digital display devices such as DTV's ( Digital Television ) Plasma displays LCD TV's and projectors to Digital source devices such as Digital Set-Top boxes DVD/DVD-R players and AV receivers. Use PLENUM rated cables where local fire codes call for a fire resistant cable such as schools commercial buildings etc. HDMI assures that the best video signal is always sent from source (HDTV signal DVD Player .) to the display (Projection Television or Plasma). It does this by allowing uncompressed video and multi-channel audio data to be input to the display device through one single cable. The need for multiple analog connections for high-resolution audio and video are eliminated. Without a HDMI connection one would need 3 video connections for high definition video and 6 audio connections for high-resolution audio. An HDMI connection allows input at high rates of speed up to 5 Gbps. This leaves a lot of spare capacity for future applications; for example a current uncompressed HD movie only requires 2.2 Gbps for both video and multi-channel audio. Tripp Lite Lifetime Warranty. Please Note: HDMI cables are rated for 5 meter/16ft lengths only. Be sure to use Tripp Lite HDMI Signal Booster B122-000 or B123-001 with this cable for maximum signal integrity. Key Features Plenum Rated 50ft HDMI Cable Creates a pure digital connection between HDMI-enabled HDTV display devices and HDMI-enabled digital video sources Gold plated connectors provide optimal signal transfer Bandwidth up to - Full 1080p Resolution Premium Double-Shielded HDMI compliant cable protects against outside noise (EMI/RFI) Impedance matched twisted pair construction reduces cross-talk and interference Available Signal Booster - Tripp Lite B122-000 or B123-001 Lifetime Warranty Package Includes 50ft PLENUM Rated HDMI to HDMI Gold Digital Video Cable - HDMI-M/HDMI-M",
+		"tags": ["hdmi", "gold", "tripp", "plenum", "4k", "gold_plating"]
+	},
+	"product6": {
+		"productId": "wireworldGoldEclipse",
+		"productName": "WIREWORLD Gold Eclipse 8 Speaker Cable Pair/Standard/Banana to Banana / 3 Meters",
+		"price": 13550.00,
+		"productImgSrc": "https://images-na.ssl-images-amazon.com/images/I/41vLqBHVCDL.jpg",
+		"category": "Cables",
+		"desc": "With solid silver conductors that illuminate fine details combined with the impressive weight and dynamics of the Octo DNA Helix design, Gold Eclipse 8 provides fidelity that is second only to the Platinum for about half the cost. The superior neutrality and focus of this upgraded cable design takes the fantastic resolution of solid silver to the next level. NOTE: Please contact us directly @ 954-474-4464 if the speaker cable configuration you require isn't listed here. Custom orders can be made by request.",
+		"tags": ["gold", "banana", "speaker", "eclipse", "silver", "wireworld"]
+	}
+}
